@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="}-T(/Uz%5dx196BE}3Oy">Player</variable><variable type="KIND_SpriteKind" id="9~5!cJ;HLY?VwKR?1uzX">Projectile</variable><variable type="KIND_SpriteKind" id="6~mPj0w~]w-nK%K:LH)n">Food</variable><variable type="KIND_SpriteKind" id="Y(ISfy{v?R^sf]j6q#Q)">Enemy</variable><variable id="#Wc=h9c3GzwhrdT?UK;R">mySprite</variable><variable id="N;JHJuqs;4BZ,}b}o@km">Agent 006</variable></variables><block type="pxt-on-start" id="{NSrwSwy%)}rqDlR/dU8" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="Q]_{35W,bg]*b0P~+u.h"><field name="VAR" id="N;JHJuqs;4BZ,}b}o@km">Agent 006</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="|hVxal[M?pejKn?_O!:7"><value name="img"><shadow type="screen_image_picker" id="#}#-Ajgmw}x-*Ahb;Z[."><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"#}#-Ajgmw}x-*Ahb;Z[."}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="q#SFXWfTz`(Pnx85,w+s"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="set_current_tilemap" id="K^zVoe2xTsocjdt/I$9p"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="CJV=ed;@]e|1]_S]]tQq"><field name="tilemap">tilemap`Level2`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"Level2"}}</data></shadow></value></block></next></block></statement></block></xml>
